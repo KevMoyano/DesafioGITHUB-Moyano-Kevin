@@ -1,0 +1,29 @@
+body {
+    background-image: url(./img/body.jfif);
+    background-attachment: fixed;
+}
+.ul-nav {
+
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.size-navlink {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+
+
+
+
+.ul-redes {
+    list-style: none;
+}
+.a-redes{
+    margin: 5px;
+}
+.img-redes {
+    width: 30px;
+}
