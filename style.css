@@ -2,8 +2,8 @@ body {
     background-image: url(./img/body.jfif);
     background-attachment: fixed;
 }
-.ul-nav {
 
+.ul-nav {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
@@ -27,4 +27,8 @@ body {
 }
 .img-redes {
     width: 30px;
+}
+.filtro-img-varias:hover{
+ filter: blur(1px);
+ border: solid black 1px;
 }
