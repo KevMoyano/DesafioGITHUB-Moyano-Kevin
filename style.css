@@ -32,3 +32,6 @@ body {
  filter: blur(1px);
  border: solid black 1px;
 }
+.estilo-imgaside {
+    border-radius: 30px;
+}
